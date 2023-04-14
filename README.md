@@ -1,9 +1,7 @@
 # Three-Tier-infrastructure-using-Terraform
 <br>
-<br>
 Managing information technology (IT) infrastructure across multiple clouds, servers, and environments can quickly become complex and unwieldy. But one of the best ways that enterprises can operate and grow infrastructure at scale is an Infrastructure-as-code (IaC) solution called Terraform.
 <br>
-
 
 ![Image](https://user-images.githubusercontent.com/82276019/195646768-3cccc563-daea-4058-a15c-d0561174269b.jpg)
 
