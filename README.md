@@ -2,7 +2,7 @@
 
 ![Image](https://user-images.githubusercontent.com/82276019/195646768-3cccc563-daea-4058-a15c-d0561174269b.jpg)
 
-
+Terraform is a tool for provisioning infrastructure(or managing Infrastructure as Code). It supports multiple providers(eg, AWS, Google Cloud, Azure, OpenStack..)
 
 ![17](https://user-images.githubusercontent.com/82276019/232085093-cf222f02-5fc7-4e6b-88a6-13872128c242.png)
 ![18](https://user-images.githubusercontent.com/82276019/232085116-3f6abf66-e65a-4e3b-9e13-8c936eb7b025.png)
