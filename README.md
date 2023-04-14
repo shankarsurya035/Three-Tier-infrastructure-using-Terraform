@@ -17,9 +17,33 @@ In a DevOps scenario, building AWS services via tools like Terraform is a more s
 ![Screenshot (289)](https://user-images.githubusercontent.com/82276019/232085603-bdb198b1-d2af-4259-9847-5e166dbe0ef7.png)
 ![Screenshot (291)](https://user-images.githubusercontent.com/82276019/232085626-d1a4168f-cec7-47bf-a0d0-2ecf54b772a2.png)
 ![Screenshot (294)](https://user-images.githubusercontent.com/82276019/232085787-87ce8a94-a339-4f1a-b164-981fd389c3dc.png)
+<br>
+![01](https://user-images.githubusercontent.com/82276019/232097170-aca5f530-3e8a-4316-9924-0399cc985596.png)
+![1 1](https://user-images.githubusercontent.com/82276019/232097192-e5ddfc14-ebd5-4789-a06d-932cf9430051.png)
+![1](https://user-images.githubusercontent.com/82276019/232097222-889fa9d7-9ce2-471b-967d-a0673dfc5ac7.png)
+![2](https://user-images.githubusercontent.com/82276019/232097281-0310d138-6985-4bbf-9d89-890e7982c425.png)
+![3](https://user-images.githubusercontent.com/82276019/232097334-de2870f1-7d2c-4d06-b984-39f6191f0000.png)
+![4](https://user-images.githubusercontent.com/82276019/232097358-38308a9d-6ba1-4aab-9ca1-e7b6edca5841.png)
+![5](https://user-images.githubusercontent.com/82276019/232097380-9066882c-c036-45cf-b5f0-e15af62c5405.png)
+![6 1](https://user-images.githubusercontent.com/82276019/232097479-0727a1e8-a355-4fc6-ab23-f812be79ce50.png)
+![6](https://user-images.githubusercontent.com/82276019/232097499-f240381b-c32e-4505-93a4-87b6c26424a5.png)
+![7](https://user-images.githubusercontent.com/82276019/232097528-e2e81a17-92bb-4581-9056-36b31820764f.png)
+![8](https://user-images.githubusercontent.com/82276019/232097554-0c2767f5-7910-488c-acba-c67761ada9ac.png)
+![9](https://user-images.githubusercontent.com/82276019/232097649-4e9ec587-f080-451e-8946-5c0356992e0a.png)
+![10](https://user-images.githubusercontent.com/82276019/232097661-7dbf044b-caa1-4044-ad3f-b9de52d12146.png)
+![11](https://user-images.githubusercontent.com/82276019/232097700-80c70acf-7aea-4152-8d95-1afd24feb024.png)
+![12](https://user-images.githubusercontent.com/82276019/232097711-bb940a74-0dd4-46a7-9ef3-5e3460b68f3e.png)
+![13](https://user-images.githubusercontent.com/82276019/232097759-2696e299-90ba-4e3f-8190-22c162f5aecd.png)
+![14](https://user-images.githubusercontent.com/82276019/232097775-dc7cc284-7ba9-49a3-8bd7-61c9e036e73e.png)
+![15](https://user-images.githubusercontent.com/82276019/232097831-fe65724d-535b-4ba9-8265-a1b648812899.png)
+![16](https://user-images.githubusercontent.com/82276019/232097866-86349a69-27ba-4d7c-ab2d-ab81a643a89f.png)
+![17](https://user-images.githubusercontent.com/82276019/232097880-eb8bc957-56bd-4a31-8496-2a994b3e2623.png)
+![18](https://user-images.githubusercontent.com/82276019/232097913-7f876575-c992-4c32-aebe-60d953fb8d8c.png)
+![19](https://user-images.githubusercontent.com/82276019/232097920-6f2b8413-1b66-4117-9197-e1568606b435.png)
 
 
 
+<br>
 ![Screenshot (295)](https://user-images.githubusercontent.com/82276019/232084281-97764976-e4df-46f6-b65d-b0a4cf30ffe5.png)
 ![Screenshot (296)](https://user-images.githubusercontent.com/82276019/232084298-ef9ebb3d-c6b8-4984-acbf-c4d71ceff6aa.png)
 ![Screenshot (297)](https://user-images.githubusercontent.com/82276019/232084344-fb04070e-ec7f-45dd-ac39-bc03f4aca12d.png)
